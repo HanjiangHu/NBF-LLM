@@ -169,3 +169,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+*.pt
+*events*
+data/train 
+data/val
+results
