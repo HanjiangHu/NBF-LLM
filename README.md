@@ -1,6 +1,6 @@
 # NBF-LLM
 This is the code for "Steering Dialogue Dynamics for Robustness against Multi-turn Jailbreaking Attacks".
-
+![Overview](./img/overview.jpg)
 ## Install
 Create a Conda environment and install the required packages.
 ```
