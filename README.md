@@ -1,6 +1,9 @@
 # NBF-LLM
-This is the code for "Steering Dialogue Dynamics for Robustness against Multi-turn Jailbreaking Attacks".
+This is the code for "Steering Dialogue Dynamics for Robustness against Multi-turn Jailbreaking Attacks". Checkout [arXiv](https://arxiv.org/abs/2503.00187) for details.
+
+## Overview
 ![Overview](./img/overview.jpg)
+
 ## Install
 Create a Conda environment and install the required packages.
 ```
@@ -50,11 +53,16 @@ Besides, open-source and LoRA fine-tuned LLMs are also supported. First login Hu
 ## Citation
 If you find this work useful, please cite this paper:
 
-H. Hu, A. Robey and C. Liu
-"[Steering Dialogue Dynamics for Robustness against Multi-turn Jailbreaking Attacks]()"
+H. Hu, A. Robey and C. Liu,
+"[Steering Dialogue Dynamics for Robustness against Multi-turn Jailbreaking Attacks](https://arxiv.org/pdf/2503.00187)"
 
 ```
-bibtex
+@article{hu2025steering,
+  title={Steering Dialogue Dynamics for Robustness against Multi-turn Jailbreaking Attacks},
+  author={Hu, Hanjiang and Robey, Alexander and Liu, Changliu},
+  journal={arXiv preprint arXiv:2503.00187},
+  year={2025}
+}
 ```
 
 ## Reference
